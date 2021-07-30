@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Return_a_double_value2", "R
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Using_functions_in_expressions", "Using_functions_in_expressions\Using_functions_in_expressions.vcxproj", "{DDB527C8-2CDF-4DB5-9AB1-3ABACAD77B35}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Local_scope", "Local_scope\Local_scope.vcxproj", "{49855ADC-8057-446C-B8E1-3BF72C10068C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{DDB527C8-2CDF-4DB5-9AB1-3ABACAD77B35}.Release|x64.Build.0 = Release|x64
 		{DDB527C8-2CDF-4DB5-9AB1-3ABACAD77B35}.Release|x86.ActiveCfg = Release|Win32
 		{DDB527C8-2CDF-4DB5-9AB1-3ABACAD77B35}.Release|x86.Build.0 = Release|Win32
+		{49855ADC-8057-446C-B8E1-3BF72C10068C}.Debug|x64.ActiveCfg = Debug|x64
+		{49855ADC-8057-446C-B8E1-3BF72C10068C}.Debug|x64.Build.0 = Debug|x64
+		{49855ADC-8057-446C-B8E1-3BF72C10068C}.Debug|x86.ActiveCfg = Debug|Win32
+		{49855ADC-8057-446C-B8E1-3BF72C10068C}.Debug|x86.Build.0 = Debug|Win32
+		{49855ADC-8057-446C-B8E1-3BF72C10068C}.Release|x64.ActiveCfg = Release|x64
+		{49855ADC-8057-446C-B8E1-3BF72C10068C}.Release|x64.Build.0 = Release|x64
+		{49855ADC-8057-446C-B8E1-3BF72C10068C}.Release|x86.ActiveCfg = Release|Win32
+		{49855ADC-8057-446C-B8E1-3BF72C10068C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
