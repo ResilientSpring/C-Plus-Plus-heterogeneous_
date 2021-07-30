@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+void MultiplyNumbers() {
 	cout << "This program will help you multiply two numbers" << endl;
 
 	cout << "Enter the first number: ";
@@ -13,8 +13,12 @@ int main() {
 	cin >> secondNumber;
 
 	cout << first_number << ' x ' << secondNumber << ' = ' << first_number * secondNumber << '\n';
-	cout << first_number <<  'x' << secondNumber << '=' << first_number * secondNumber << '\n';
+	cout << first_number << 'x' << secondNumber << '=' << first_number * secondNumber << '\n';
 	cout << first_number << " x " << secondNumber << " = " << first_number * secondNumber;
+}
+
+int main() {
+	MultiplyNumbers();
 
 	return 0;
 }
