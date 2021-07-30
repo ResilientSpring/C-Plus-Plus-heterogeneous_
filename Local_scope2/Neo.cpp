@@ -1,0 +1,23 @@
+/*
+A local variable is initialized each time its block is entered.
+*/
+
+#include <iostream>
+using namespace std;
+
+void f();
+
+int main() {
+	for (int i = 0; i < 3; i++)
+	{
+		f();
+	}
+
+	return 0;
+}
+
+void f() {
+	int num = 99;
+	cout << num << '\n';
+	num++;
+}
