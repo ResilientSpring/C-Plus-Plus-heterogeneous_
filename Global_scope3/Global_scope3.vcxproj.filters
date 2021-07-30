@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Neo-new-recent-modern.cpp">
+    <ClCompile Include="Neo-new-recent-comtemporary.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
