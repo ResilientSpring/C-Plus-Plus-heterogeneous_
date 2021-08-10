@@ -51,6 +51,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Passing_an_array_to_functio
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pointer", "Pointer\Pointer.vcxproj", "{04990EEE-C37C-4ADE-B9CB-82DA4DE95294}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Passing_strings_to_a_function", "Passing_strings_to_a_function\Passing_strings_to_a_function.vcxproj", "{DBA23CB7-9210-4911-9420-5B9A1639FEEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -251,6 +253,14 @@ Global
 		{04990EEE-C37C-4ADE-B9CB-82DA4DE95294}.Release|x64.Build.0 = Release|x64
 		{04990EEE-C37C-4ADE-B9CB-82DA4DE95294}.Release|x86.ActiveCfg = Release|Win32
 		{04990EEE-C37C-4ADE-B9CB-82DA4DE95294}.Release|x86.Build.0 = Release|Win32
+		{DBA23CB7-9210-4911-9420-5B9A1639FEEF}.Debug|x64.ActiveCfg = Debug|x64
+		{DBA23CB7-9210-4911-9420-5B9A1639FEEF}.Debug|x64.Build.0 = Debug|x64
+		{DBA23CB7-9210-4911-9420-5B9A1639FEEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{DBA23CB7-9210-4911-9420-5B9A1639FEEF}.Debug|x86.Build.0 = Debug|Win32
+		{DBA23CB7-9210-4911-9420-5B9A1639FEEF}.Release|x64.ActiveCfg = Release|x64
+		{DBA23CB7-9210-4911-9420-5B9A1639FEEF}.Release|x64.Build.0 = Release|x64
+		{DBA23CB7-9210-4911-9420-5B9A1639FEEF}.Release|x86.ActiveCfg = Release|Win32
+		{DBA23CB7-9210-4911-9420-5B9A1639FEEF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
