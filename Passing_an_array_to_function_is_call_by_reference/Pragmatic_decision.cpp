@@ -32,11 +32,11 @@ int main() {
 }
 
 // Cube the elemtns in an array.
-void cube(int* n, int num) {
-	while (num)
+void cube(int* n, int size_of_array) {
+	while (size_of_array)
 	{
 		*n = *n * *n * *n;  // This changes the value of the array element pointed to by n.
-		num--;
+		size_of_array--;
 		n++;
 	}
 }
